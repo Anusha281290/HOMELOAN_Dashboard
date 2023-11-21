@@ -5,6 +5,8 @@ The bank is facing difficulty in keeping track of these details from all its bra
 
 Essentially, the bank wants to:
 
--- Understand how its business is doing so far,
+-- Understand how its business is doing so far
+
 -- Analyse the patterns/behaviour of customers applying for loans and
+
 -- Identify the target customers applying for loans greater than ₹10 lakh to maximise net profit.
